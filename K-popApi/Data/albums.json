@@ -1,0 +1,79 @@
+[
+  {
+    "Id": 1,
+    "Title": "GO生 (GO LIVE)",
+    "Artist": "Stray Kids",
+    "ReleaseDate": "2020-06-17T00:00:00",
+    "TrackList": [
+      "GO生",
+      "God's Menu",
+      "Easy",
+      "Pacemaker",
+      "Airplane",
+      "Another Day",
+      "Phobia",
+      "Blueprint",
+      "TA",
+      "Haven"
+    ],
+    "CoverUrl": "https://upload.wikimedia.org/wikipedia/en/2/2b/Stray_Kids_-_Go_Live.png"
+  },
+  {
+    "Id": 2,
+    "Title": "IN生 (IN LIFE)",
+    "Artist": "Stray Kids",
+    "ReleaseDate": "2020-09-14T00:00:00",
+    "TrackList": [
+      "The Tortoise and the Hare",
+      "Back Door",
+      "B Me",
+      "Any",
+      "Ex",
+      "We Go",
+      "Wow",
+      "My Universe",
+      "Be Easy",
+      "All In"
+    ],
+    "CoverUrl": "https://proanima.pl/wp-content/uploads/2022/10/plyta-540x540.jpg"
+  },
+  {
+    "Id": 3,
+    "Title": "NOEASY",
+    "Artist": "Stray Kids",
+    "ReleaseDate": "2021-08-23T00:00:00",
+    "TrackList": [
+      "CHEESE",
+      "Thunderous",
+      "DOMINO",
+      "Ssick",
+      "The View",
+      "Sorry, I Love You",
+      "Silent Cry",
+      "Secret Secret",
+      "Star Lost",
+      "Red Lights"
+    ],
+    "CoverUrl": "https://ecsmedia.pl/cdn-cgi/image/format=webp,width=544,height=544,/c/noeasy-b-iext103540306.jpg"
+  },
+  {
+    "Id": 4,
+    "Title": "st",
+    "Artist": "stg",
+    "ReleaseDate": "2024-06-19T09:55:13.76",
+    "TrackList": [
+      "string"
+    ],
+    "CoverUrl": "https://upload.wikimedia.org/wikipedia/en/2/2b/Stray_Kids_-_Go_Live.png"
+  },
+  {
+    "Id": 5,
+    "Title": "solo",
+    "Artist": "adr",
+    "ReleaseDate": "2024-11-09T13:16:10.663Z",
+    "TrackList": [
+      "koko"
+    ],
+    "CoverUrl": "https://ali"
+  }
+]
